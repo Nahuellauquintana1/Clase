@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1553606188 source:c:\users\alumno\desktop\biblioteca\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BibliotecaUno.h"
+	"Recursividad.h"
+
+1553604775 source:c:\users\alumno\desktop\biblioteca\bibliotecauno.c
+	"BibliotecaUno.h"
+	<stdio.h>
+
+1553604775 c:\users\alumno\desktop\biblioteca\bibliotecauno.h
+
+1553605747 c:\users\alumno\desktop\biblioteca\recursividad.h
+
+1553606166 source:c:\users\alumno\desktop\biblioteca\recursividad.c
+	"Recursividad.h"
+
+1553604775 source:c:\users\alumno\desktop\clase 4\biblioteca\bibliotecauno.c
+	"BibliotecaUno.h"
+	<stdio.h>
+
+1553609114 c:\users\alumno\desktop\clase 4\biblioteca\bibliotecauno.h
+
+1553610838 source:c:\users\alumno\desktop\clase 4\biblioteca\main.c
+	<stdio.h>
+	<stdlib.h>
+	"PedirEntero.h"
+	"Recursividad.h"
+	"mem.h"
+
+1553610838 c:\users\alumno\desktop\clase 4\biblioteca\recursividad.h
+
+1553606166 source:c:\users\alumno\desktop\clase 4\biblioteca\recursividad.c
+	"Recursividad.h"
+
+1553610517 source:c:\users\alumno\desktop\clase 4\biblioteca\menu.c
+
+1553609114 c:\users\alumno\desktop\clase 4\biblioteca\pedirentero.h
+

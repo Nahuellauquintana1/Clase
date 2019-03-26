@@ -1,0 +1,2 @@
+
+int unEntero (char[]);
