@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1554774603 source:c:\users\rushi\desktop\tarea\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1554813889 source:c:\users\alumno\desktop\clase-master\tarea\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

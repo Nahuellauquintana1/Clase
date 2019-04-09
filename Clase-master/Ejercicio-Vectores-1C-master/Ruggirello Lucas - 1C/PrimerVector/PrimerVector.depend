@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1554240492 source:c:\users\rushi\desktop\primervector\main.c
+	<stdio.h>
+	<stdlib.h>
+	"VectorUno.h"
+
+1554240057 c:\users\rushi\desktop\primervector\vectoruno.h
+
+1554241306 source:c:\users\rushi\desktop\primervector\vectoruno.c
+	"VectorUno.h"
+	<stdio.h>
+	<stdlib.h>
+
